@@ -2,9 +2,9 @@
     "diaconias": [
         {
             "nombre": "Diaconia El Carmen",
-            "imagen1": "../../assets/img/ElCarmen.jpg",
-            "imagen2": "../../assets/img/Fondo.jpg",
-            "imagen3": "../../assets/img/Fondo2.jpg",
+            "imagen1": "../assets/img/ElCarmen.jpg",
+            "imagen2": "../assets/img/Fondo.jpg",
+            "imagen3": "../assets/img/Fondo2.jpg",
               "Primero": "<li><a  href='Primero.html'>Primero</a></li>",
               "Segundo": "<li><a  href='Segundo.html'>Segundo</a></li>",
               "Tercero": "<li><a  href='Tercero.html'>Tercero</a></li>",
@@ -16,9 +16,9 @@
         },
       {
             "nombre": "Diaconia de Monserrat",
-            "imagen1": "../../assets/img/ElCarmen.jpg",
-            "imagen2": "../../assets/img/Fondo.jpg",
-            "imagen3": "../../assets/img/Fondo2.jpg",
+            "imagen1": "../assets/img/ElCarmen.jpg",
+            "imagen2": "../assets/img/Fondo.jpg",
+            "imagen3": "../assets/img/Fondo2.jpg",
               "Primero": "<li><a  href='Primero.html'>Primero</a></li>",
               "Segundo": "<li><a  href='Segundo.html'>Segundo</a></li>",
               "Tercero": "<li><a  href='Tercero.html'>Tercero</a></li>",
@@ -26,9 +26,9 @@
         },
       {
             "nombre": "Diaconia de Santa Rosa de Lima",
-            "imagen1": "../../assets/img/ElCarmen.jpg",
-            "imagen2": "../../assets/img/Fondo.jpg",
-            "imagen3": "../../assets/img/Fondo2.jpg",
+            "imagen1": "../assets/img/ElCarmen.jpg",
+            "imagen2": "../assets/img/Fondo.jpg",
+            "imagen3": "../assets/img/Fondo2.jpg",
               "Primero": "<li><a  href='Primero.html'>Primero</a></li>",
               "Segundo": "<li><a  href='Segundo.html'>Segundo</a></li>",
               "Tercero": "<li><a  href='Tercero.html'>Tercero</a></li>",
