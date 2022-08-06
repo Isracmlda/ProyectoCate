@@ -30,7 +30,7 @@
               "Tercero": "<li><a  href='Tercero.html'>Tercero</a></li>",
             }
             ]
-            "ubicacion": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d313.1163254501987!2d-84.21294353138343!3d10.003015967694884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0f9b9dfecf489%3A0x63ec61cbcbfe2776!2sIglesia%20Cat%C3%B3lica%20De%20Montserrat!5e1!3m2!1ses!2scr!4v1659725932664!5m2!1ses!2scr' width='90%' height='400' style='border:0;border-radius: 10px;' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>',
+            "ubicacion": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d313.1163254501987!2d-84.21294353138343!3d10.003015967694884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0f9b9dfecf489%3A0x63ec61cbcbfe2776!2sIglesia%20Cat%C3%B3lica%20De%20Montserrat!5e1!3m2!1ses!2scr!4v1659725932664!5m2!1ses!2scr' width='90%' height='400' style='border:0;border-radius: 10px;' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
         },
       {
             "nombre": "Diaconia de Santa Rosa de Lima",
