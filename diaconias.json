@@ -11,9 +11,7 @@
               "Cuarto": "<li><a  href='Cuarto.html'>Cuarto</a></li>",
               "Quinto": "<li><a  href='Quinto.html'>Quinto</a></li>",
               "Sexto": "<li><a  href='Sexto.html'>Sexto</a></li>",
-              "Confirma": "<li><a href='Confirma.html'>Confirma</a></li>",
-              "lat":"10.012819",
-              "lon":"-84.215739"
+              "Confirma": "<li><a href='Confirma.html'>Confirma</a></li>"
 
         },
       {
@@ -23,9 +21,7 @@
             "imagen3": "../../assets/img/Fondo2.jpg",
               "Primero": "<li><a  href='Primero.html'>Primero</a></li>",
               "Segundo": "<li><a  href='Segundo.html'>Segundo</a></li>",
-              "Tercero": "<li><a  href='Tercero.html'>Tercero</a></li>",
-              "lat":"10.0030273",
-              "lon":"-84.2131863"
+              "Tercero": "<li><a  href='Tercero.html'>Tercero</a></li>"
         },
       {
             "nombre": "Diaconia de Santa Rosa de Lima",
@@ -34,9 +30,7 @@
             "imagen3": "../../assets/img/Fondo2.jpg",
               "Primero": "<li><a  href='Primero.html'>Primero</a></li>",
               "Segundo": "<li><a  href='Segundo.html'>Segundo</a></li>",
-              "Tercero": "<li><a  href='Tercero.html'>Tercero</a></li>",
-              "lat":"10.0067507",
-              "lon":"-84.2282626"
+              "Tercero": "<li><a  href='Tercero.html'>Tercero</a></li>"
         }
    ]
 }
