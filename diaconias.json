@@ -17,8 +17,8 @@
       {
             "nombre": "Diaconia de Monserrat",
             "imagen1": "Monserrat.jpg",
-            "imagen2": "Aulas Monse.jpg",
-            "imagen3": "Aulas Monse2.jpg",
+            "imagen2": "Aulas Monse.jpeg",
+            "imagen3": "Aulas Monse2.jpeg",
               "Primero": "<li><a  href='Primero.html'>Primero</a></li>",
               "Segundo": "<li><a  href='Segundo.html'>Segundo</a></li>",
               "Tercero": "<li><a  href='Tercero.html'>Tercero</a></li>"
@@ -26,8 +26,8 @@
       {
             "nombre": "Diaconia de Santa Rosa de Lima",
             "imagen1": "Montecillos.png",
-            "imagen2": "Aulas Montecillos 2.jpeg",
-            "imagen3": "Aulas Montecillos 3.jpeg",
+            "imagen2": "Aulas Montecillos 2.jpg",
+            "imagen3": "Aulas Montecillos 3.jpg",
               "Primero": "<li><a  href='Primero.html'>Primero</a></li>",
               "Segundo": "<li><a  href='Segundo.html'>Segundo</a></li>",
               "Tercero": "<li><a  href='Tercero.html'>Tercero</a></li>"
