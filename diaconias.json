@@ -16,7 +16,7 @@
         },
       {
             "nombre": "Diaconia de Monserrat",
-            "imagen1": "ElCarmen.jpg",
+            "imagen1": "Monserrat.jpg",
             "imagen2": "Fondo.jpg",
             "imagen3": "Fondo2.jpg",
               "Primero": "<li><a  href='Primero.html'>Primero</a></li>",
@@ -25,7 +25,7 @@
         },
       {
             "nombre": "Diaconia de Santa Rosa de Lima",
-            "imagen1": "ElCarmen.jpg",
+            "imagen1": "Montecillos.jpg",
             "imagen2": "Fondo.jpg",
             "imagen3": "Fondo2.jpg",
               "Primero": "<li><a  href='Primero.html'>Primero</a></li>",
